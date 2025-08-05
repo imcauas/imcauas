@@ -6,29 +6,30 @@ Olá! Me chamo Cauã Oliveira, tenho 22 anos e sou apaixonado por tecnologia e e
 
 Busco oportunidades para aplicar meus conhecimentos, aprender novas tecnologias e contribuir com projetos que façam a diferença. No meu GitHub, compartilho estudos, projetos pessoais e experiências que refletem minha jornada na área de TI.
 
+
 <p align="left">
-    <a href="mailto:eocauas@hotmail.com">
+    <a href="mailto:eocauas@hotmail.com" style="text-decoration: none">
         <img 
             alt="email" 
             title="EMAIL" 
             src="https://custom-icon-badges.demolab.com/badge/-eocauas@hotmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
-    <a href="https://wa.link/6wouvc">
+    <a href="https://wa.link/6wouvc" style="text-decoration: none">
         <img 
             alt="youtube views" 
             title="celular" 
             src="https://custom-icon-badges.demolab.com/badge/(11) 987846887-yellow?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/imcauas?tab=repositories&sort=stargazers">
+    <a href="https://github.com/imcauas?tab=repositories&sort=stargazers" style="text-decoration: none">
         <img 
             alt="Estrelas" 
             title="Estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/imcauas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/imcauas?tab=followers">
+    <a href="https://github.com/imcauas?tab=followers" style="text-decoration: none">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
