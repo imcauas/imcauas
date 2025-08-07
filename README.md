@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Cauã Oliveira, tenho 22 anos e sou apaixonado por tecnologia e em constante evolução como desenvolvedor. Concluí o ensino médio na ETEC, com o curso técnico em informática. e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unicid. Busco oportunidades para aplicar meus conhecimentos, aprender novas tecnologias e contribuir com projetos que façam a diferença. No meu GitHub, compartilho estudos, projetos pessoais e experiências que refletem minha jornada na área de TI.
+Me chamo Cauã Oliveira, tenho 22 anos e sou apaixonado por tecnologia e em constante evolução como desenvolvedor. Concluí o ensino médio na ETEC, com o curso técnico em informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unicid. Busco oportunidades para aplicar meus conhecimentos, aprender novas tecnologias e contribuir com projetos que façam a diferença. No meu GitHub, compartilho estudos, projetos pessoais e experiências que refletem minha jornada na área de TI.
 
 
 <p align="left">
