@@ -4,20 +4,19 @@
 
 Me chamo Cauã Oliveira, tenho 22 anos e sou apaixonado por tecnologia e em constante evolução como desenvolvedor. Concluí o ensino médio na ETEC, com o curso técnico em informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unicid. Busco oportunidades para aplicar meus conhecimentos, aprender novas tecnologias e contribuir com projetos que façam a diferença. No meu GitHub, compartilho estudos, projetos pessoais e experiências que refletem minha jornada na área de TI.
 
-
 <p align="left">
     <a href="mailto:eocauas@hotmail.com" style="text-decoration: none">
         <img 
-            alt="email" 
-            title="EMAIL" 
-            src="https://custom-icon-badges.demolab.com/badge/-eocauas@hotmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
+            alt="Email" 
+            title="Email" 
+            src="https://custom-icon-badges.demolab.com/badge/-E05D44.svg?logo=mail&label=EMAIL&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://wa.link/6wouvc" style="text-decoration: none">
         <img 
-            alt="youtube views" 
-            title="celular" 
-            src="https://custom-icon-badges.demolab.com/badge/(11) 987846887-yellow?style=for-the-badge&logo=phone&logoColor=white"
+            alt="Contato" 
+            title="Contato" 
+            src="https://custom-icon-badges.demolab.com/badge/-E1AD0E.svg?logo=phone&label=CONTATO&style=for-the-badge&logoColor=white&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/imcauas?tab=repositories&sort=stargazers" style="text-decoration: none">
@@ -145,7 +144,6 @@ Me chamo Cauã Oliveira, tenho 22 anos e sou apaixonado por tecnologia e em cons
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
-
 
 <br/>
 <br/>
