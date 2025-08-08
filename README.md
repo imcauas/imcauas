@@ -6,33 +6,13 @@ Me chamo Cauã Oliveira, tenho 22 anos e sou apaixonado por tecnologia e em cons
 
 <p align="left">
     <a href="mailto:eocauas@hotmail.com" style="text-decoration: none">
-        <img 
-            alt="Email" 
-            title="Email" 
-            src="https://custom-icon-badges.demolab.com/badge/-E05D44.svg?logo=mail&label=EMAIL&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+        <img alt="Email" title="Email"src="https://custom-icon-badges.demolab.com/badge/-E05D44.svg?logo=mail&label=EMAIL&style=for-the-badge&labelColor=CE4630"/></a>
     <a href="https://wa.link/6wouvc" style="text-decoration: none">
-        <img 
-            alt="Contato" 
-            title="Contato" 
-            src="https://custom-icon-badges.demolab.com/badge/-E1AD0E.svg?logo=phone&label=CONTATO&style=for-the-badge&logoColor=white&labelColor=C79600"
-        />
-    </a> 
+        <img alt="Contato" title="Contato" src="https://custom-icon-badges.demolab.com/badge/-E1AD0E.svg?logo=phone&label=CONTATO&style=for-the-badge&logoColor=white&labelColor=C79600"/></a> 
     <a href="https://github.com/imcauas?tab=repositories&sort=stargazers" style="text-decoration: none">
-        <img 
-            alt="Estrelas" 
-            title="Estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/imcauas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+        <img alt="Estrelas" title="Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imcauas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
     <a href="https://github.com/imcauas?tab=followers" style="text-decoration: none">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/imcauas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/imcauas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
 </p>
 
 ---
